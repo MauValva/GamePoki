@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 369acd2cb9f14d3eb5482dba223c73a0
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333082
+  packageName: "Zombies \u2013 Modular Animated Pack"
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Zombies_Pack/Render_Pipeline_Convert/Render_Pipeline_Instructions_Unity_6.txt
+  uploadId: 927576

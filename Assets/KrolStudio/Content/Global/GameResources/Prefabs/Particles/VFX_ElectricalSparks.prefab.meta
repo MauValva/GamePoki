@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 622bcad52713b1d48a098d1aa07153ca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/Particles/VFX_ElectricalSparks.prefab
+  uploadId: 895290

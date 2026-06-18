@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7893183729d13c84b80bb80d3aac6715
+timeCreated: 1521390842
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/MemoryPoolMonitor/Editor/MpmSettingsInstaller.cs
+  uploadId: 895290

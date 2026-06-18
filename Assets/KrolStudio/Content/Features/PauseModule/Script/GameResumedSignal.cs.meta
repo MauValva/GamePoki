@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c3a8fae64ecd0bb4894656bb097a1efe
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/PauseModule/Script/GameResumedSignal.cs
+  uploadId: 895290

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 77aff4f1c9d07704bafd856e02a46ac9
+timeCreated: 1455889829
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/Particles/FireEffect/VFX_FireHeavy.prefab
+  uploadId: 895290

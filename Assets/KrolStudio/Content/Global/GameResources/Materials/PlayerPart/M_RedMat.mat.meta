@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd2515e8cafdaba40b4fe3a896bbfa1f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/PlayerPart/M_RedMat.mat
+  uploadId: 895290

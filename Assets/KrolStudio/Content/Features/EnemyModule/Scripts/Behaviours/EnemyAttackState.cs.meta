@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: a40c18dbb5ec5354ba4849fd4f77ea30
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/EnemyModule/Scripts/Behaviours/EnemyAttackState.cs
+  uploadId: 895290

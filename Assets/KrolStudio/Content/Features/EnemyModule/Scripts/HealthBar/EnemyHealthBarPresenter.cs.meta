@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c5cdc572fadd05848b8573be2fbe949a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/EnemyModule/Scripts/HealthBar/EnemyHealthBarPresenter.cs
+  uploadId: 895290

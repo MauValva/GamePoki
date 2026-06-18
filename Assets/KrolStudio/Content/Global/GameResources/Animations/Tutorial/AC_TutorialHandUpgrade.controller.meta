@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f5b18537b0621e4fbdc201788299878
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Animations/Tutorial/AC_TutorialHandUpgrade.controller
+  uploadId: 895290

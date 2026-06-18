@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c0d574cd977bec647a72133d1f53d9e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Core/ObjectPool/Scripts/IObjectFactory.cs
+  uploadId: 895290

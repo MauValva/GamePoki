@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fe579c84f07b3d44824ac9c873ee1f1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Animations/Part/AC_Part.controller
+  uploadId: 895290

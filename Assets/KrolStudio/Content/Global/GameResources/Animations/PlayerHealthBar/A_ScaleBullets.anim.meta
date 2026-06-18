@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f6c8b6a02fd92d942af0710a7441bd6b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Animations/PlayerHealthBar/A_ScaleBullets.anim
+  uploadId: 895290

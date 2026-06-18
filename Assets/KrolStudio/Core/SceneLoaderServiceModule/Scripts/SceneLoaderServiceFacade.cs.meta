@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7cc689bdfea84f23961ea559deb51d00
+timeCreated: 1731184648
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Core/SceneLoaderServiceModule/Scripts/SceneLoaderServiceFacade.cs
+  uploadId: 895290

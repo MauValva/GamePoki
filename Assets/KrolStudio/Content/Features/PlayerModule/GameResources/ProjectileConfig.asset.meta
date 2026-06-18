@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7bcdc970a7d1794487729b596dda4f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/PlayerModule/GameResources/ProjectileConfig.asset
+  uploadId: 895290

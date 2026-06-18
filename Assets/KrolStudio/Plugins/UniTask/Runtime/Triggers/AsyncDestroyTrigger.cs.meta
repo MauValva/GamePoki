@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f4afdcb1cbadf954ba8b1cf465429e17
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/UniTask/Runtime/Triggers/AsyncDestroyTrigger.cs
+  uploadId: 895290

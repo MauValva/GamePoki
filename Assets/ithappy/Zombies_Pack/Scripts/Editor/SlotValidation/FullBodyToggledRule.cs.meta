@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 81c9bf32761b4d4796b403ea199655ad
+timeCreated: 1736328372
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333082
+  packageName: "Zombies \u2013 Modular Animated Pack"
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Zombies_Pack/Scripts/Editor/SlotValidation/FullBodyToggledRule.cs
+  uploadId: 927576

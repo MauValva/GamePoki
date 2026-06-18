@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 14f8b558cd941e545961d1d8d31254f0
+timeCreated: 1536994295
+licenseType: Store
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/ReflectionBaking/Zenject-ReflectionBaking-Editor.asmdef
+  uploadId: 895290

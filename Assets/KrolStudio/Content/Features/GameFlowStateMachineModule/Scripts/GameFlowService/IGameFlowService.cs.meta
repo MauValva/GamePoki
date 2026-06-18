@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: cb1dd4eb310afcd4bad92f74d9e62ede
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/GameFlowStateMachineModule/Scripts/GameFlowService/IGameFlowService.cs
+  uploadId: 895290

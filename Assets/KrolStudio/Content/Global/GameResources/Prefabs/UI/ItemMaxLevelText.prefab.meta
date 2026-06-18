@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a01822ec9890fb446a3d8029c0de1f9f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/UI/ItemMaxLevelText.prefab
+  uploadId: 895290

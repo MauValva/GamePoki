@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 888c17e8d23281e46b5800b07d63f29f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/Windows/FailScreen.prefab
+  uploadId: 895290

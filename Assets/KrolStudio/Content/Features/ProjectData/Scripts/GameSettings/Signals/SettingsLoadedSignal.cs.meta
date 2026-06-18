@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 58e18ce749f3e0f48a94609be253c011
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/ProjectData/Scripts/GameSettings/Signals/SettingsLoadedSignal.cs
+  uploadId: 895290

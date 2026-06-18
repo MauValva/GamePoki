@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e4441c51fbf8c947a0759c49c51a46a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/Particles/M_Triangle_curve_AB.mat
+  uploadId: 895290

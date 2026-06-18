@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d8e196cf1b2c0c49950e1246c9920fc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/Particles/VFX_SmokeDarkTrail.prefab
+  uploadId: 895290

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: da4cb0f689a9b074aa3d2f2da8b38015
+timeCreated: 1461708054
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/Source/Binding/Finalizers/SubContainerPrefabBindingFinalizer.cs
+  uploadId: 895290

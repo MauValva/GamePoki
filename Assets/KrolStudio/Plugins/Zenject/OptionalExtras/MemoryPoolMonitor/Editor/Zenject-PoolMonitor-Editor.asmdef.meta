@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e988738e8012f5a4fa42a45fcab11e2c
+timeCreated: 1531030364
+licenseType: Store
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/MemoryPoolMonitor/Editor/Zenject-PoolMonitor-Editor.asmdef
+  uploadId: 895290

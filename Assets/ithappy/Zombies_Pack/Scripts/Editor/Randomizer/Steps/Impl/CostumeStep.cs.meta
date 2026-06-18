@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: ea94b2048a93461a8454f8690930aa8b
+timeCreated: 1736674915
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333082
+  packageName: "Zombies \u2013 Modular Animated Pack"
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Zombies_Pack/Scripts/Editor/Randomizer/Steps/Impl/CostumeStep.cs
+  uploadId: 927576

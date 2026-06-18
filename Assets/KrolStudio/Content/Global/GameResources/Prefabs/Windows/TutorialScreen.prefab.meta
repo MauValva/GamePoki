@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 231da4018f4a1b24ab20728091c84ffc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/Windows/TutorialScreen.prefab
+  uploadId: 895290

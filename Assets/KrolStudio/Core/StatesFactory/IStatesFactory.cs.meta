@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e6d6b1de86cdb4d4f8bbb057a710cd4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Core/StatesFactory/IStatesFactory.cs
+  uploadId: 895290

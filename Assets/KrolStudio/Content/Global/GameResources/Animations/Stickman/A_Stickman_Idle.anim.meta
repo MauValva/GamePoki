@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 480f384bea6269747967ae4f43721309
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Animations/Stickman/A_Stickman_Idle.anim
+  uploadId: 895290

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3165b0e21a128ec448e34d722269e51f, type: 3}
+  m_Name: DefaultProgressConfig
+  m_EditorClassIdentifier: Assembly-CSharp::TestTask.DefaultProgressConfig
+  currencySettings:
+  - type: 0
+    count: 10
+  partSettings:
+  - type: 1
+    level: 0
+  - type: 2
+    level: -1
+  - type: 3
+    level: -1
+  - type: 4
+    level: 0
+  - type: 5
+    level: 0
+  vibrate: 1
+  musicVolume: 0.5
+  sfxVolume: 0.5
+  isForcedAdEnabled: 0

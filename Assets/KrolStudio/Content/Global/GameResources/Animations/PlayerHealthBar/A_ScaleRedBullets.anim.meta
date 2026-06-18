@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3f954b4daa49e0498dd3a76b943e5f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Animations/PlayerHealthBar/A_ScaleRedBullets.anim
+  uploadId: 895290

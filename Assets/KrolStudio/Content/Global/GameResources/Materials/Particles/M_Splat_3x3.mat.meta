@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 699c9fda5d0990c43b3055f4894ff224
+timeCreated: 1757546026
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/Particles/M_Splat_3x3.mat
+  uploadId: 895290

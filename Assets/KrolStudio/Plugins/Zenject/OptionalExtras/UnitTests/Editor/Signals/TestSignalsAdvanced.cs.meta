@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a29fed4f37865b6499168681c2fc1460
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/UnitTests/Editor/Signals/TestSignalsAdvanced.cs
+  uploadId: 895290

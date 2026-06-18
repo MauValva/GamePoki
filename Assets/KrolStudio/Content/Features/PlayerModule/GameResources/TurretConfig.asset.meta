@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c157c7cfdfce4624ca1bae2adcf9f6f5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/PlayerModule/GameResources/TurretConfig.asset
+  uploadId: 895290

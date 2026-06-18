@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d59ebe17edaf4644a4c26cd2b6b9e63
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/UI/HUD.prefab
+  uploadId: 895290

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 267d0f0f1215e9b4585dbf0e33830747
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/UI/SliderYellow.prefab
+  uploadId: 895290

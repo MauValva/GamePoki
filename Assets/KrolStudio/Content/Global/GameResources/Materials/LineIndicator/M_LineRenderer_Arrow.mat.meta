@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7bc022c13706ea64ba96d1fdfc7b6095
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/LineIndicator/M_LineRenderer_Arrow.mat
+  uploadId: 895290

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2932b1ad9afc4bd4eab263725376a7dc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Animations/Stickman/A_Stickman_Attack.anim
+  uploadId: 895290

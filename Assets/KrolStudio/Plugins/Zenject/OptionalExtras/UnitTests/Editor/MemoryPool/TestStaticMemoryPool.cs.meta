@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 554fc06f7ed876d479aa605f55099e02
+timeCreated: 1528024394
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/UnitTests/Editor/MemoryPool/TestStaticMemoryPool.cs
+  uploadId: 895290

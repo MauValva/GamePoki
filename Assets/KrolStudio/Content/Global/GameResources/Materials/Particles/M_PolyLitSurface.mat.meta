@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8cde8a7e12401c646ac9ceba6093dd65
+timeCreated: 1753382857
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/Particles/M_PolyLitSurface.mat
+  uploadId: 895290

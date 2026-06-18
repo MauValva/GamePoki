@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8b054db3ca3d3d04299457b971fb05ad
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/UI/IncomeUpText.prefab
+  uploadId: 895290

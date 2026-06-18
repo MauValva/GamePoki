@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9b4bb0669791c184bbe9f17ff203d3e5
+timeCreated: 1753382857
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/Particles/M_Cloud_2x2_soft.mat
+  uploadId: 895290

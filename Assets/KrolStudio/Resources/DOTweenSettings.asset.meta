@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a39425b2ff3750c4f959a632cb3fcbd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Resources/DOTweenSettings.asset
+  uploadId: 895290

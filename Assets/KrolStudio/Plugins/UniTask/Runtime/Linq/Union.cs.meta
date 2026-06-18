@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ae57a55bdeba98b4f8ff234d98d7dd76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/UniTask/Runtime/Linq/Union.cs
+  uploadId: 895290

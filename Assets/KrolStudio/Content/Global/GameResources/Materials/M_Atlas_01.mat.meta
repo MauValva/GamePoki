@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0952e064a1f27a4c90743030c81d29a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/M_Atlas_01.mat
+  uploadId: 895290

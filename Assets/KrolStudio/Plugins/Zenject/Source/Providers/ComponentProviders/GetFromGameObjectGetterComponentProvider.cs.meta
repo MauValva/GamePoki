@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 766643a5935eb704a929da28681bf70e
+timeCreated: 1529230207
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/Source/Providers/ComponentProviders/GetFromGameObjectGetterComponentProvider.cs
+  uploadId: 895290

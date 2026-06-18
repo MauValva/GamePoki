@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6492a173e6c03f48899880b96cca600
+timeCreated: 1473684431
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/Particles/M_ElectricalSparks.mat
+  uploadId: 895290

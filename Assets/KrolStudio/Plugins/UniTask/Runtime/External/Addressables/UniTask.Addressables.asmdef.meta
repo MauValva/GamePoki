@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 593a5b492d29ac6448b1ebf7f035ef33
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/UniTask/Runtime/External/Addressables/UniTask.Addressables.asmdef
+  uploadId: 895290

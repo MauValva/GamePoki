@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 348d125e80402e448a6667eed7204301
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/UI/HealthBar.prefab
+  uploadId: 895290

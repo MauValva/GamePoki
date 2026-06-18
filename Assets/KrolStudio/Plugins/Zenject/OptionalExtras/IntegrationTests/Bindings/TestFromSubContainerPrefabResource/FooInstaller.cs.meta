@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a30bc985de2744a49add38b40ccf532a
+timeCreated: 1460654592
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/IntegrationTests/Bindings/TestFromSubContainerPrefabResource/FooInstaller.cs
+  uploadId: 895290

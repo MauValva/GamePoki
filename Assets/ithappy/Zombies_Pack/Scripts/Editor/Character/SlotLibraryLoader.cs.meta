@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 776c49d48b2e479ab0d2a09043ebf061
+timeCreated: 1735291150
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333082
+  packageName: "Zombies \u2013 Modular Animated Pack"
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Zombies_Pack/Scripts/Editor/Character/SlotLibraryLoader.cs
+  uploadId: 927576

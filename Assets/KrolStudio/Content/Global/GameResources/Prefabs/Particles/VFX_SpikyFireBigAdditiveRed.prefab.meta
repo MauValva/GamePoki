@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7903c494b92b2414da9913b28681d89c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/Particles/VFX_SpikyFireBigAdditiveRed.prefab
+  uploadId: 895290

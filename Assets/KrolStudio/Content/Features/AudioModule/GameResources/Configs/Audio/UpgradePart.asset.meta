@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 922c0b2e81ee3d04c8ef0ba0f9986c4f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/AudioModule/GameResources/Configs/Audio/UpgradePart.asset
+  uploadId: 895290

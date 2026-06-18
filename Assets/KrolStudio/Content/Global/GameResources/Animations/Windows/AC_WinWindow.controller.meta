@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 96f34240338161a468aa6e6552b48615
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Animations/Windows/AC_WinWindow.controller
+  uploadId: 895290

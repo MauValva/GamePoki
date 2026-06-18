@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bd8592ec897336d4fb55f476488dfb1c
+timeCreated: 1461708053
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/UnitTests/Editor/BindFeatures/TestNonLazy.cs
+  uploadId: 895290

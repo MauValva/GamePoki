@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: f185587d85dc6304f93f31bb198e820f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/ProjectData/Scripts/GameProgress/Signals/ProgressDataChangedSignal.cs
+  uploadId: 895290

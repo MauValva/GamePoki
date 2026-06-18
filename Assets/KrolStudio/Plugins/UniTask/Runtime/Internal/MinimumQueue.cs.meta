@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7d63add489ccc99498114d79702b904d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/UniTask/Runtime/Internal/MinimumQueue.cs
+  uploadId: 895290

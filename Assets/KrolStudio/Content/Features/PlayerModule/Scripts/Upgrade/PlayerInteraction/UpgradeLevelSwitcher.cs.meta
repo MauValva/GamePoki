@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ee9fc1b9d4c5df945b77d37754041751
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/PlayerModule/Scripts/Upgrade/PlayerInteraction/UpgradeLevelSwitcher.cs
+  uploadId: 895290

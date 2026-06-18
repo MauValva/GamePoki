@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b9ed3d810b81434ca2e88dcd91752d5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/AddressableAssetsData/DataBuilders/BuildScriptPackedPlayMode.asset
+  uploadId: 895290

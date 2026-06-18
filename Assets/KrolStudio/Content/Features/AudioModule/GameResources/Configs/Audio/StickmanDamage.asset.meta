@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e97a4e8815b9f0c4d90f26cf2779a79e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/AudioModule/GameResources/Configs/Audio/StickmanDamage.asset
+  uploadId: 895290

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: faca0d44f980ee548b5307fc0cb34bd5
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/PlayerModule/Scripts/Movement/IMovementService.cs
+  uploadId: 895290

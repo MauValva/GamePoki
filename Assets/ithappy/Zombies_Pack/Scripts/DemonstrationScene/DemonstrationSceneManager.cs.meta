@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7983b4d0ac28448d8270c6d39c7ea1d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333082
+  packageName: "Zombies \u2013 Modular Animated Pack"
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Zombies_Pack/Scripts/DemonstrationScene/DemonstrationSceneManager.cs
+  uploadId: 927576

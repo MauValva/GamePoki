@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 82f8e600fa7641108e89fc6bdfb545ee
+timeCreated: 1742135707
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Core/InputModule/Scripts/IInputListener.cs
+  uploadId: 895290

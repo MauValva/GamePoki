@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c623959eaa39dce4288d1adc524aca7a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/PlayerModule/Scripts/Behaviours/PlayerDeadState.cs
+  uploadId: 895290

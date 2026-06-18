@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c104980fd429e2748bcfdef5af5bac72
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/Units/Tentacle/TentacleGraphics.prefab
+  uploadId: 895290

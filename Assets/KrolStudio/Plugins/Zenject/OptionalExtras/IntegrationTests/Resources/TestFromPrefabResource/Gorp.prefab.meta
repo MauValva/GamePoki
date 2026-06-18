@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 889ca6448cbd11b4a9fd4511513f21ac
+timeCreated: 1459015737
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/IntegrationTests/Resources/TestFromPrefabResource/Gorp.prefab
+  uploadId: 895290

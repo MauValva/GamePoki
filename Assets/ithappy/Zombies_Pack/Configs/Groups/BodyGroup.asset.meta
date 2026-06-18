@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b6b0fc7f36b4fe998c310e17b3f19e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333082
+  packageName: "Zombies \u2013 Modular Animated Pack"
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Zombies_Pack/Configs/Groups/BodyGroup.asset
+  uploadId: 927576

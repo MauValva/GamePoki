@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 13d437814cd89ae4dbd61c1c9e00776e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/EnemyModule/Scripts/EnemyChaseTransitionChecker.cs
+  uploadId: 895290

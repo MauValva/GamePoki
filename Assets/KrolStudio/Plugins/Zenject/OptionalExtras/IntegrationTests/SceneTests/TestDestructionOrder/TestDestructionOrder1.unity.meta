@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91f1a89eec2339443a33e85d58a69325
+timeCreated: 1527696648
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/IntegrationTests/SceneTests/TestDestructionOrder/TestDestructionOrder1.unity
+  uploadId: 895290

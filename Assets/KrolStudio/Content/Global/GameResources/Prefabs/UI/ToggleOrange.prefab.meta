@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5608c5e9ba1bec8408debd300bcdbe42
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/UI/ToggleOrange.prefab
+  uploadId: 895290

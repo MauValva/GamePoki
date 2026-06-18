@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b107233111f831043b3d5983fe6f1b25
+timeCreated: 1537934945
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/ReflectionBaking/Unity/UnityAssemblyResolver.cs
+  uploadId: 895290

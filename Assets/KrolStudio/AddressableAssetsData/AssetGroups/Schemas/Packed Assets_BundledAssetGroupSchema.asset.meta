@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a8c3a19771334e47bc511267ef8086f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/AddressableAssetsData/AssetGroups/Schemas/Packed Assets_BundledAssetGroupSchema.asset
+  uploadId: 895290

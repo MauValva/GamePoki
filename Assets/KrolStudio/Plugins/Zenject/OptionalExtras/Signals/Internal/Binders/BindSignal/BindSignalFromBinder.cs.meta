@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c779f758eaadfd54fb9c66f7acc75716
+timeCreated: 1521288279
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/Signals/Internal/Binders/BindSignal/BindSignalFromBinder.cs
+  uploadId: 895290

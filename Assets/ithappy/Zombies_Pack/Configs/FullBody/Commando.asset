@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 957af65cc4e04957b386a9ca73f99f9c, type: 3}
+  m_Name: Commando
+  m_EditorClassIdentifier: 
+  Slots:
+  - Type: 1
+    GameObject: {fileID: 919132149155446097, guid: 608ee3119a394dedb59b75c1fc649c6d,
+      type: 3}
+  - Type: 6
+    GameObject: {fileID: 919132149155446097, guid: ec71d108b2da41e299de63c0a1763995,
+      type: 3}
+  - Type: 8
+    GameObject: {fileID: 919132149155446097, guid: 1ec89d78951947398ffcc970e6de2816,
+      type: 3}
+  - Type: 11
+    GameObject: {fileID: 919132149155446097, guid: 5ba4e1f2701d42568e22a4b786f0d914,
+      type: 3}
+  - Type: 13
+    GameObject: {fileID: 919132149155446097, guid: a55d498ba50f4eb59f3838fa053c3c19,
+      type: 3}
+  - Type: 14
+    GameObject: {fileID: 919132149155446097, guid: 236cca461b1f4d309c7a5e634c8ef43b,
+      type: 3}

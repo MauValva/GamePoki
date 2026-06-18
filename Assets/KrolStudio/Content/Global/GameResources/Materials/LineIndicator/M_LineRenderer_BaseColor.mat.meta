@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 960a884104a599247b1ce8c404915e50
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/LineIndicator/M_LineRenderer_BaseColor.mat
+  uploadId: 895290

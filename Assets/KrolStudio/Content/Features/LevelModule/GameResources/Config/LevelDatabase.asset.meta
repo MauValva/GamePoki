@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 255d4b07b71845b4d85a414d7cd8455f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/LevelModule/GameResources/Config/LevelDatabase.asset
+  uploadId: 895290

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 03b109b1fe1f2df46aa56ffb26747654
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/UniTask/Runtime/Linq/ToDictionary.cs
+  uploadId: 895290

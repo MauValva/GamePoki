@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 45c081e030ee53c4297dd597a45833fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/Other/Projectile.prefab
+  uploadId: 895290

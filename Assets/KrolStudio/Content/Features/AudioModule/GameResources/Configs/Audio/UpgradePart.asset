@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ed60c81ad1378644b82f596b3d0729a, type: 3}
+  m_Name: UpgradePart
+  m_EditorClassIdentifier: Assembly-CSharp::SoundConfig
+  SoundName: UpgradePart
+  Clip: {fileID: 8300000, guid: 26602b48958a532479e492da4e427785, type: 3}
+  Volume: 0.8
+  Pitch: 1
+  Loop: 0
+  MixerGroup: {fileID: 5376949993583087051, guid: ebf5cf4396373b8498e18899e7dcfe4b, type: 2}
+  SpatialBlend: 1
+  MinDistance: 1
+  MaxDistance: 500

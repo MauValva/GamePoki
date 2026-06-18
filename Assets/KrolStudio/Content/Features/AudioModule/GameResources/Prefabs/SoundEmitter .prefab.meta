@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd063195d2f276145ba84f5c374f9c90
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/AudioModule/GameResources/Prefabs/SoundEmitter
+    .prefab
+  uploadId: 895290

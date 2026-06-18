@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 076ac830e4574b3c9492f3aa96fa79b4
+timeCreated: 1736678855
+AssetOrigin:
+  serializedVersion: 1
+  productId: 333082
+  packageName: "Zombies \u2013 Modular Animated Pack"
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Zombies_Pack/Scripts/Editor/Randomizer/Steps/Impl/PantsStep.cs
+  uploadId: 927576

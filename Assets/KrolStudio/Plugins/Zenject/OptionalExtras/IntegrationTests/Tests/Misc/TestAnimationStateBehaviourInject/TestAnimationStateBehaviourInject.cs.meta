@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f80ffddc2b920e54f85483d37863d1ba
+timeCreated: 1527866041
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/IntegrationTests/Tests/Misc/TestAnimationStateBehaviourInject/TestAnimationStateBehaviourInject.cs
+  uploadId: 895290

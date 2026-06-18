@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2cb952285825420458766cd7148c6dc9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/ProjectData/GameResources/DefaultProgressConfig.asset
+  uploadId: 895290

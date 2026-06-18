@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 86fac362ce83f024081aa45c55bb5596
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/EnemyModule/Scripts/Behaviours/EnemyWanderState.cs
+  uploadId: 895290

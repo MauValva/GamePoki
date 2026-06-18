@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41d7c062dae74a1db8f92cf562cd79fd, type: 3}
+  m_Name: OutwearGroup
+  m_EditorClassIdentifier: 
+  Type: 11
+  Variants:
+  - {fileID: 919132149155446097, guid: ffb7d534d53e4398b1819ffc158a1abf, type: 3}
+  - {fileID: 919132149155446097, guid: d5baf9f68b0d4460b21b2485128b3b81, type: 3}
+  - {fileID: 919132149155446097, guid: 1ef357b79e7846fc88453182e9e92e4b, type: 3}
+  - {fileID: 919132149155446097, guid: f05e10d106ad4b52aa86e3109a5f006c, type: 3}
+  - {fileID: 919132149155446097, guid: 5c9d50a1a7134e1daab96a82c2e8851a, type: 3}
+  - {fileID: 919132149155446097, guid: 3b709d027b134aff9dcaa32ea0bc46cc, type: 3}
+  - {fileID: 919132149155446097, guid: 0ebfa00cac2b4dd092c199b4c348da29, type: 3}
+  - {fileID: 919132149155446097, guid: 6372c06066c9418ca652b9ee1b145b2c, type: 3}
+  - {fileID: 919132149155446097, guid: b10768640514423698ac066a7c97ebe7, type: 3}
+  - {fileID: 919132149155446097, guid: 70a639c3c38b4fee9827f7a05a8184ee, type: 3}
+  - {fileID: 919132149155446097, guid: a5079f3100794df88c78782405b1bd5c, type: 3}
+  - {fileID: 919132149155446097, guid: dc65b3e4e73a4c0ab6040bd96d2ea5f4, type: 3}
+  - {fileID: 919132149155446097, guid: d2b3b159421645e7a54d99b139a1a871, type: 3}
+  - {fileID: 919132149155446097, guid: cb274f9831784e1fa4cfe1c5199b0cb7, type: 3}
+  - {fileID: 919132149155446097, guid: 60b95e63265244b4bda78c663b765f78, type: 3}
+  - {fileID: 919132149155446097, guid: ee5038a680a54a479c916478fafc273c, type: 3}
+  - {fileID: 919132149155446097, guid: 7d992f6b1073476794179876a1fabb7d, type: 3}
+  - {fileID: 919132149155446097, guid: b43b7fa2bb314c3283b791d7201d051e, type: 3}
+  - {fileID: 919132149155446097, guid: 7ccd974b97aa4c4ea6c9647fec80432f, type: 3}
+  - {fileID: 919132149155446097, guid: 4a06b06ac772490aa8cf84e66c5715ee, type: 3}
+  - {fileID: 919132149155446097, guid: ce4a1f239895435abfb1a000066cd41a, type: 3}
+  - {fileID: 919132149155446097, guid: bf617e44e07e43dbaafbd20bd889d0a4, type: 3}
+  - {fileID: 919132149155446097, guid: d78db7f908fd4dbabf493932dfa94c56, type: 3}
+  - {fileID: 919132149155446097, guid: 03150b5f83dc4abaaeabf6d30446b051, type: 3}
+  - {fileID: 919132149155446097, guid: 8daf5554261a49cdbc231f5683942d34, type: 3}
+  - {fileID: 919132149155446097, guid: 02ae873d56a7484c8a1b1aa6f37c6f04, type: 3}

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 92542c78edb25474e84263477e6b161c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/TutorialModule/Scripts/Signals/TutorialCompletedSignal.cs
+  uploadId: 895290

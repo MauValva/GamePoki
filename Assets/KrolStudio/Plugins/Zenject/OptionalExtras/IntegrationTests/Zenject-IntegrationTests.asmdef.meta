@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2845024868d5894408e3dc7b917ca748
+timeCreated: 1533537358
+licenseType: Store
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/IntegrationTests/Zenject-IntegrationTests.asmdef
+  uploadId: 895290

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8bc266fcb24273042bb5f68c22871eff
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Prefabs/Military/PlayerAmmoBox.prefab
+  uploadId: 895290

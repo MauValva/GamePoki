@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aa394697317502845a45deb4243e85ea
+timeCreated: 1520779155
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/Zenject/OptionalExtras/IntegrationTests/SceneContractTests/AutoLoader/Resources/ZenjectDefaultSceneContractConfig.asset
+  uploadId: 895290

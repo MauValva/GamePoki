@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ed9b9b4bf57f21489aa9c23f0067427
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Features/GameBootstrapModule/GameResources/SceneContext/BootstrapSceneContext.prefab
+  uploadId: 895290

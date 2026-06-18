@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 957af65cc4e04957b386a9ca73f99f9c, type: 3}
+  m_Name: Chef
+  m_EditorClassIdentifier: 
+  Slots:
+  - Type: 0
+    GameObject: {fileID: 919132149155446097, guid: b54d0fcfb7b8406eac173b85fdc9cf2d,
+      type: 3}
+  - Type: 8
+    GameObject: {fileID: 919132149155446097, guid: 5540d155116543c0ae19d2ffd25aec24,
+      type: 3}
+  - Type: 11
+    GameObject: {fileID: 919132149155446097, guid: f179cf446a5a433b89a6029634913370,
+      type: 3}
+  - Type: 13
+    GameObject: {fileID: 919132149155446097, guid: 90df7716571a4f738f93ccbba3440b87,
+      type: 3}
+  - Type: 14
+    GameObject: {fileID: 919132149155446097, guid: 29a7c48b937042cfb534846308df3caf,
+      type: 3}

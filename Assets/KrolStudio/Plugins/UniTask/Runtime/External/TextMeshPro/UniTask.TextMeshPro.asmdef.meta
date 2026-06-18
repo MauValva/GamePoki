@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc47925d1a5fa2946bdd37746b2b5d48
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Plugins/UniTask/Runtime/External/TextMeshPro/UniTask.TextMeshPro.asmdef
+  uploadId: 895290

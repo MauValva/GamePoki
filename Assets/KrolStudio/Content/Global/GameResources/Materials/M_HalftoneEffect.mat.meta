@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bbc465081e1a46469480243e09dd76a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Content/Global/GameResources/Materials/M_HalftoneEffect.mat
+  uploadId: 895290

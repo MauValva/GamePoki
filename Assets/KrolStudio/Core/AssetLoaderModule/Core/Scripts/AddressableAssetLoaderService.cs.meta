@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2c77ad0acd783d4438a9dd9812303087
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 339078
+  packageName: Swipe Gunner | Template
+  packageVersion: 2.0.0
+  assetPath: Assets/KrolStudio/Core/AssetLoaderModule/Core/Scripts/AddressableAssetLoaderService.cs
+  uploadId: 895290
